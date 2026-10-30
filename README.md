@@ -1,3 +1,5 @@
+![CI](https://github.com/manivela25/text-frequency-analyzer/actions/workflows/ci.yml/badge.svg)
+
 # Text Frequency Analyzer
 
 A modular, zero-dependency Python utility designed to sanitize, analyze, and visualize word frequency distributions from
