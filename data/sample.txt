@@ -1,0 +1,3 @@
+Python is fun and python is powerful. 
+Writing clean code in python is easy when you understand the logic.
+Good code is readable code, and readable code is maintainable.
